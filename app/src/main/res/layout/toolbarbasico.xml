@@ -1,0 +1,15 @@
+
+    <androidx.appcompat.widget.Toolbar
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/mytoolbarbasico"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="#33ff00"
+        android:elevation="4dp"
+        app:titleTextColor="#ffffff"
+        app:title="El Titulo"
+        app:popupTheme="@style/Theme.Material3.Dark"
+        >
+
+    </androidx.appcompat.widget.Toolbar>

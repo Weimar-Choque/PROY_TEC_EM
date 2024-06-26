@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Huellas a Casa</string>
+    <string name="product_image_desc">Descripcion de la imagen no funciona</string>
+    <string name="cart_item_image_desc">Product Image</string>
+</resources>

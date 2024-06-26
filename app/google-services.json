@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "81328417905",
+    "project_id": "dbproyecto-d1c3d",
+    "storage_bucket": "dbproyecto-d1c3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81328417905:android:0e6d150f8b010a8fa0bfd0",
+        "android_client_info": {
+          "package_name": "com.weimar.proy_tec_em"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgQZRZnoEWsuT1vzzM0jGH7KH4m1yYJ6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

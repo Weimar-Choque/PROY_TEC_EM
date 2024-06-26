@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PROY_TEC_EM" parent="Theme.AppCompat.Light.DarkActionBar"><!-- <quite el noactionbar -->
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+    <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Estilo sin ActionBar -->
+    </style>
+
+    <style name="Theme.PROY_TEC_EM" parent="Base.Theme.PROY_TEC_EM" />
+</resources>
